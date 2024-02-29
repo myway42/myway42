@@ -2,4 +2,4 @@
 
 ### myway42
 - 兴趣使然
-- [Docs](https://myway42.github.io/)
+- [Docs](https://www.myway42.chat/)
